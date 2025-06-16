@@ -1,5 +1,0 @@
-{
-  "name": "SPI Vocabulary Quizzer",
-  "description": "An application to help users learn and practice frequently used vocabulary for the SPI exam through quizzes. It features quiz sets, feedback, and history tracking.",
-  "requestFramePermissions": []
-}
